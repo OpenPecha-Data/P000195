@@ -1,0 +1,39 @@
+ebook_metadata:
+  title: ༄༅། །མདོ་སྡུད་པ་ཚིགས་སུ་བཅད་པའི་འགྲེལ་པ་ཕ་རོལ་ཏུ་ཕྱིན་པའི་རྒྱ་མཚོའི་སྡེ་དང་།
+    མདོ་དང་བསྟན་བཅོས་སྦྱར་ཚུལ་མ་ཕམ་ཞལ་ལུང་། །
+  authors:
+  - མཛད་པ་པོ། ཀརྨ་མི་བསྐྱོད་རྡོ་རྗེ་དང་། འཇུ་མི་ཕམ་རྣམ་རྒྱལ་རྒྱ་མཚོ།
+  sku: VVI-005
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - tsawa
+  - quotation
+  - sabche
+web_metadata:
+  title:
+    en: A Collection of Commentaries on the Short Prajnaparamita Sutras
+    bo: མདོ་སྡུད་པ་ཚིགས་སུ་བཅད་པའི་འགྲེལ་པ་ཕ་རོལ་ཏུ་ཕྱིན་པའི་རྒྱ་མཚོའི་སྡེ་དང་། མདོ་དང་བསྟན་བཅོས་སྦྱར་ཚུལ་མ་ཕམ་ཞལ་ལུང་།
+  collection:
+    en: Vajra Vidya Institute Library–  Book 5
+    bo: བཛྲ་བིདྱཱ་དཔེ་མཛོད་ཁང་།–  དེབ། ༥
+  author:
+    en: Authors:Jamgon Mipham Gyatso,Third Karmapa Rangjung Dorje
+    bo: ཀརྨ་པ་སྐུ་ཕྲེང་གསུམ་པ་རང་བྱུང་རྡོ་རྗེ།,འཇམ་མགོན་མི་ཕམ་རྒྱ་མཚོ།
+  pusblisher:
+    en: Vajra Vidya Institute
+    bo: བཛྲ་བིདྱཱ་གཙུག་ལག་སློབ་གཉེར་ཁང་།
+  sku: VVI-005
+  category:
+    en: Prajnaparamita
+    bo: ཤེས་ཕྱིན།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: VVI-005.epub
+  description:
+    en: ''
+    bo: ''
