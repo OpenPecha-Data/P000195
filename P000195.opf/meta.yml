@@ -1,9 +1,10 @@
-ebook_metadata:
+id: P000195
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །མདོ་སྡུད་པ་ཚིགས་སུ་བཅད་པའི་འགྲེལ་པ་ཕ་རོལ་ཏུ་ཕྱིན་པའི་རྒྱ་མཚོའི་སྡེ་དང་།
     མདོ་དང་བསྟན་བཅོས་སྦྱར་ཚུལ་མ་ཕམ་ཞལ་ལུང་། །
   authors:
   - མཛད་པ་པོ། ཀརྨ་མི་བསྐྱོད་རྡོ་རྗེ་དང་། འཇུ་མི་ཕམ་རྣམ་རྒྱལ་རྒྱ་མཚོ།
-  sku: VVI-005
   layers:
   - book_title
   - author
@@ -11,6 +12,7 @@ ebook_metadata:
   - tsawa
   - quotation
   - sabche
+  id: VVI-005
 web_metadata:
   title:
     en: A Collection of Commentaries on the Short Prajnaparamita Sutras
